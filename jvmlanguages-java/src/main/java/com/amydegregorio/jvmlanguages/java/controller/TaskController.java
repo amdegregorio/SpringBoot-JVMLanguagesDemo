@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.amydegregorio.jvmlanguages.java.controller;
 
 import java.util.List;
@@ -24,10 +21,6 @@ import com.amydegregorio.jvmlanguages.java.repository.TaskRepository;
 import com.amydegregorio.jvmlanguages.java.util.Priorities;
 import com.amydegregorio.jvmlanguages.java.util.Statuses;
 
-/**
- * @author AMD
- *
- */
 @Controller
 public class TaskController {
    @Autowired

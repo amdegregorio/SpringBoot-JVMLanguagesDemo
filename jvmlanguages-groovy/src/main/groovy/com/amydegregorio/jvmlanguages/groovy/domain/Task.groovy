@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.amydegregorio.jvmlanguages.groovy.domain
 
 import com.amydegregorio.jvmlanguages.groovy.util.Priorities
@@ -11,10 +8,6 @@ import javax.persistence.GeneratedValue
 import javax.persistence.GenerationType
 import javax.persistence.Id
 
-/**
- * @author AMD
- *
- */
 @Entity
 class Task {
    @Id
