@@ -8,21 +8,21 @@ For more information see [Spring Boot in Three Languages](http://amydegregorio.c
 >cd jvmlanguages-java
 >gradlew bootRun
 ```
-Open browser to (http://localhost:8080/)[http://localhost:8080/]
+Open browser to [http://localhost:8080/](http://localhost:8080/)
 
 ## Groovy Application
 ```
 >cd jvmlanguages-groovy
 >gradlew bootRun
 ```
-Open browser to (http://localhost:8080/)[http://localhost:8080/]
+Open browser to [http://localhost:8080/](http://localhost:8080/)
 
 ## Kotlin Application
 ```
 >cd jvmlanguages-kotlin
 >gradlew bootRun
 ```
-Open browser to (http://localhost:8080/)[http://localhost:8080/]
+Open browser to [http://localhost:8080/](http://localhost:8080/)
 
 #### License
 
